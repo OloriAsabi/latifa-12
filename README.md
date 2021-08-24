@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @latifa-12
-- 👀 I’m interested in JavaScript and web development 
-- 🌱 I’m currently learning programming 
-- 💞️ I’m looking to collaborate on any web development project 
+- 👀 I’m interested in mobile web app development
+- 🌱 I’m currently learning react.js
+- 💞️ I’m looking to collaborate on any mobile web development project 
 - 📫 How to reach me http://linkedin.com/in/latifat-oduntan-93b25b1a1
 
 
