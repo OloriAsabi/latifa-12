@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on any mobile web development project 
 - 📫 How to reach me http://linkedin.com/in/latifat-oduntan-93b25b1a1
 -  View Project https://latifa-12.github.io/Ashabi-s-Pie-Shop/index.html
+-  View Project https://latifa-12.github.io/tours-app/
 
 
 <!---
