@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @latifa-12
+- 👋 Hi, I’m @OloriAsabi
 - 👀 I’m interested in mobile web app development
 - 🌱 I’m currently learning react.js
 - 💞️ I’m looking to collaborate on any mobile web development project 
